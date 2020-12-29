@@ -10,10 +10,12 @@ body {
 h1{
   font-family: 'La Belle Aurore', serif;
   font-size: 3em;
+  color: #E79C60;
 }
 p{
   font-family: 'IM Fell English', cursive;
   font-size: 2.5em;
+  color: #EFE5D5;
 }
 #complementArea {
   height: 30px;
@@ -32,7 +34,7 @@ p{
  font-family:'IM Fell English', serif; 
  font-size: 20px;
  position: relative;
- background: #efe5d5;
+ background: #E79C60;
  color: #000000;
  text-align: center;
  padding: 1em 2em; /* Adjust to suit */
@@ -43,7 +45,7 @@ p{
  position: absolute;
  display: block;
  bottom: -1em;
- border: 1.5em solid #cfb283;
+ border: 1.5em solid #D48A55;
  z-index: -1;
 }
 .ribbon:before {
