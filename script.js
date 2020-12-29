@@ -3,7 +3,7 @@ var firstA = ["beautiful", "sophisticated", "poetic", "noble", "talented", "bril
 
 var secondA = [", charmingly attractive", ", so darn likeable", ", ineffably affable", ", considerate", ", understanding", ", generous", ", shining example of a", ", good working", ", nice smelling", ", self-disciplined", ", mischief smelling", ", pageant winning", ", proactive thinking", ", practical minded", ", dependable", ", hardworking", ", adaptable", ", trustworthy", ", quick-witted", ", observant", ", magnetically attractive"];
 
-var thirdA = ["newborn baby", "land mermaid", "musk ox", "sunflower", "unicorn-nurse", "hottie", "sunfish", "hunk of a person", "sun divinity", "tropical fish", "greek god", "superman double", "olympic gold medalist", "teddy bear", "captain You Sparrow" ];
+var thirdA = ["newborn baby", "land mermaid", "musk ox", "sunflower", "unicorn-nurse", "hottie", "sunfish", "hunk of a person", "sun Divinity", "tropical fish", "Greek God", "Superman double", "Olympic gold medalist", "teddy bear", "Captain You Sparrow", "talent scout's wet dream", "prized collection", "Renaissance painting", "3 Starred Restaurant", "Nobel Winning Diplomat", "part-time model" ];
 
 var buttonClick = document.getElementById("complimentGenerator");
 
