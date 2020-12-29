@@ -16,12 +16,14 @@ p {
 }
 
 .BoxCenter {
-  max-width: 80em;
-  max-height: 70em;
-  min-width: 80em;
-  min-height: 70em;
-  margin:0 auto;
+  max-width: 73em;
+  max-height: 50em;
+  min-width: 73em;
+  min-height: 50em;
+  
+  margin: 0 auto;
   text-align: center;
+  padding: 0 auto;
 }
 
 img {
