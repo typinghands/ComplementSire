@@ -1,9 +1,9 @@
 // Array's containing the elements of the "ultimate insult generator: https://i.imgur.com/wqDtqUj.jpg
-var firstA = ["beautiful", "sophisticated", "poetic", "noble", "talented", "brilliant", "powerful", "perfect", "cunning", "chestnut-haired", "thoughtful", "kind", "rule-breaking", "glowing", "sweet", "innocent", "pretty"];
+var firstA = ["beautiful", "sophisticated", "poetic", "noble", "talented", "brilliant", "powerful", "perfect", "cunning", "chestnut-haired", "thoughtful", "kind", "rule-breaking", "glowing", "sweet", "innocent", "pretty", "intoxicatingly"];
 
-var secondA = [", charmingly attractive", ", so darn likeable", ", ineffably affable", ", considerate", ", understanding", ", generous", ", shining example of a", ", good working", ", nice smelling", ", self-disciplined", ", proactive thinking", ", practical minded", ", dependable", ", hardworking", ", adaptable", ", trustworthy", ", quick-witted", ", observant", ", magnetically attractive"];
+var secondA = [", charmingly attractive", ", so darn likeable", ", ineffably affable", ", considerate", ", understanding", ", generous", ", shining example of a", ", good working", ", nice smelling", ", self-disciplined", ", mischief smelling", ", pageant winning", ", proactive thinking", ", practical minded", ", dependable", ", hardworking", ", adaptable", ", trustworthy", ", quick-witted", ", observant", ", magnetically attractive"];
 
-var thirdA = ["newborn baby", "land mermaid", "musk ox", "sunflower", "unicorn-nurse", "spinster", "sunfish", "moth", "sun goddess", "tropical fish"];
+var thirdA = ["newborn baby", "land mermaid", "musk ox", "sunflower", "unicorn-nurse", "hottie", "sunfish", "hunk of a person", "sun divinity", "tropical fish", "greek god", "superman double", "olympic gold medalist", "teddy bear", "captain You Sparrow" ];
 
 var buttonClick = document.getElementById("complimentGenerator");
 
@@ -33,7 +33,7 @@ buttonClick.onclick = function() {
   complementArea.innerHTML = complementArea.innerHTML + newMessage;
   // after first compliment payed - button txt changes
   
-    buttonClick.innerHTML = "I shall compliment you a second time!";
+    buttonClick.innerHTML = "Certainly! I shall compliment thee an additional time!";
 
 };
 
