@@ -1,9 +1,9 @@
 // Array's containing the elements of the "ultimate insult generator: https://i.imgur.com/wqDtqUj.jpg
-var firstA = ["beautiful", "sophisticated", "poetic", "noble", "talented", "brilliant", "powerful", "perfect", "cunning", "chestnut-haired", "thoughtful", "kind", "rule-breaking", "glowing", "sweet", "innocent", "pretty", "intoxicatingly"];
+var firstA = ["beautiful", "sophisticated", "poetic", "noble", "talented", "brilliant", "powerful", "perfect", "cunning", "chestnut-haired", "thoughtful", "kind", "rule-breaking", "glowing", "sweet", "innocent", "pretty", "intoxicatingly", "hair-whippingly"];
 
-var secondA = ["charmingly attractive", "so darn likeable", "ineffably affable", "considerate", "understanding", "generous", "shining example of a", "good working", "nice smelling", "self-disciplined", "mischief smelling", "pageant winning", "proactive thinking", "practical minded", "dependable", "hardworking", "adaptable", "trustworthy", "quick-witted", "observant", "magnetically attractive", 'Superbrained'];
+var secondA = ["charmingly attractive", "so darn likeable", "ineffably affable", "considerate", "understanding", "generous", "shining example of a", "good working", "nice smelling", "self-disciplined", "mischief smelling", "pageant winning", "proactive thinking", "practical minded", "dependable", "hardworking", "adaptable", "trustworthy", "quick-witted", "observant", "magnetically attractive", 'Superbrained', "insightful"];
 
-var thirdA = ["newborn messiah", "land mermaid", "musky wonderland", "sunflower", "unicorn-nurse", "hottie", "TASTY sunfish", "hunk of a person", "sun Divinity", "tropical wonder", "Greek God", "Superman double", "Olympic gold medalist", "teddy bear", "Captain You Sparrow", "talent scout's wet dream", "First Winner Prize", "Renaissance painting", "3 Starred Michelin Restaurant", "Nobel Winning Diplomat", "part-time model", "collectionist's piece", "trophy wife", "Einstein Competitor" ];
+var thirdA = ["newborn messiah", "land mermaid", "musky wonderland", "sunflower", "unicorn-nurse", "hottie", "TASTY sunfish", "hunk of a person", "sun Divinity", "tropical wonder", "Greek God", "Superman double", "Olympic gold medalist", "teddy bear", "Captain You Sparrow", "talent scout's wet dream", "First Winner Prize", "Renaissance painting", "3 Starred Michelin Restaurant", "Nobel Winning Diplomat", "part-time model", "collectionist's piece", "trophy wife", "Einstein Competitor", "Horcrux Chosen One" ];
 
 var buttonClick = document.getElementById("complimentGenerator");
 
