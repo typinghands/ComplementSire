@@ -1,5 +1,5 @@
 // Array's containing the elements of the "ultimate insult generator: https://i.imgur.com/wqDtqUj.jpg
-var firstA = ["beautiful", "sophisticated", "poetic", "noble", "talented", "brilliant", "powerful", "perfect", "cunning", "chestnut-haired", "thoughtful", "kind", "rule-breaking", "glowing", "sweet", "innocent", "pretty", "intoxicatingly", "hair-whippingly", "degree-getting", "strong ankled", "fresh-laundry smelling", "doe eyed"];
+var firstA = ["beautiful", "sophisticated", "poetic", "noble", "talented", "brilliant", "powerful", "perfect", "cunning", "chestnut-haired", "thoughtful", "kind", "rule-breaking", "glowing", "sweet", "innocent", "pretty", "intoxicatingly", "hair-whippingly", "degree-getting", "strong ankled", "fresh-laundry smelling", "doe eyed", "musky smelling", "mentally strong", "ineffably charming", "uhh, so bold", "Excuse me, is it me or are you..."];
 
 var secondA = ["charmingly attractive", "so darn likeable", "ineffably affable", "considerate", "understanding", "generous", "shining example of a", "good working", "nice smelling", "self-disciplined", "mischief smelling", "pageant winning", "proactive thinking", "practical minded", "dependable", "hardworking", "adaptable", "trustworthy", "quick-witted", "observant", "magnetically attractive", 'Superbrained', "insightful", "attractively dangling", "algorithmically gorgeous"];
 
